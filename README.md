@@ -1,7 +1,7 @@
 # Rock Paper Scissor Game
 
 ## Description
-This Python program allows you to play Rock Paper Scissors against the computer. The game keeps track of scores and displays the results of each round.
+This Python program allows you to play Rock Paper Scissors against the computer. The game displays the results of each round.
 
 ## Project Structure
 ```
