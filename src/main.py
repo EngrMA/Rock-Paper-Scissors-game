@@ -43,7 +43,7 @@ class RockPaperScissors:
     def winner_recognizer(self, user_choice: str, computer_choice: str) -> str:
         """decide whether user or computer won, or even it is a tie!
 
-        :param user_choice: choice o users from the list of choices
+        :param user_choice: choice of users from the list of choices
         :param computer_choice: choice of a computer according to the list
         :return: results of the game. who won
         """
@@ -59,8 +59,9 @@ class RockPaperScissors:
 
 
 if __name__ == "__main__":
+    game = RockPaperScissors()
+
     while True:
-        game = RockPaperScissors()
         game.play()
     
         continue_value = input("do you wanna play again(press any key) or not(q/Q): ")
