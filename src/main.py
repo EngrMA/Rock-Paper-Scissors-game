@@ -1,6 +1,8 @@
 """
 Author: EngrMA
 Popular Rock Paper Scissor Game 
+
+Refactored By: EngrMH
 """
 
 import random 
